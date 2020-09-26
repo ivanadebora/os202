@@ -8,7 +8,7 @@ ZCZC  W00   120 L02 ZOOM class pertemuan 1
 ZCZC  W00   60  L05 GSGS for week 00 Top 10 List
 ZCZC  W01   120 L02 ZOOM class pertemuan 2
 ZCZC  W01   60  L21 Installing Debian
-ZCZC  W01   60  L05 GSGS for week 00 Top 10 List
+ZCZC  W01   60  L05 GSGS for week 01 Top 10 List
 ZCZC  W01   120 L10 Write My Top 10 List for week 00 and week 01
 ZCZC  W01   120 L26 Watching Frozen II Movie
 ZCZC  W01   90  L99 Playing piano
