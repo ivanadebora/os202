@@ -6,13 +6,13 @@
 
 <br>
 
-# Welcome to My OS202 Page
+# Welcome to My OS202
 
 ### [My Log](TXT/mylog.txt)
 <br>
 <hr>
 <br>
-## Operating Systems Weekly Top Ten List
+## Operating Systems Weekly Top 10 List
 * [Week 00](W00/)
 * [Week 01](W01/)
 
