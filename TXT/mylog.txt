@@ -9,7 +9,11 @@ ZCZC  W00   60  L05 GSGS for week 00 Top 10 List
 ZCZC  W01   120 L02 ZOOM class pertemuan 2
 ZCZC  W01   60  L21 Installing Debian
 ZCZC  W01   60  L05 GSGS for week 01 Top 10 List
-ZCZC  W01   120 L10 Write My Top 10 List for week 00 and week 01
+ZCZC  W01   15  L10 Assignment week 01: Try creating and import Debian guest
+ZCZC  W01   30  L10 Assignment week 01: Login to Debian guest and try few of CLI commands
+ZCZC  W01   15  L10 Assignment week 01: Tunnelling to badak.cs.ui.ac.id via kawung.cs.ui.ac.id and copy few folders to local computer
+ZCZC  W01   15  L10 Assignment week 01: Setting git for os202 repository in local computer
+ZCZC  W01   120 L10 Assignment week 01: Write My Top 10 List for week 00 and week 01 + update mylog.txt, commit and push it to github repo
 ZCZC  W01   120 L26 Watching Frozen II Movie
 ZCZC  W01   90  L99 Playing piano
 ZCZC  W01   120 L06 Read and search conference journals
