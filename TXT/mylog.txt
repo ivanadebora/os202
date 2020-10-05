@@ -15,5 +15,8 @@ ZCZC  W01   15  L10 Assignment week 01: Tunnelling to badak.cs.ui.ac.id via kawu
 ZCZC  W01   15  L10 Assignment week 01: Setting git for os202 repository in local computer
 ZCZC  W01   120 L10 Assignment week 01: Write My Top 10 List for week 00 and week 01 + update mylog.txt, commit and push it to github repo
 ZCZC  W01   120 L26 Watching Frozen II Movie
-ZCZC  W01   90  L99 Playing piano
 ZCZC  W01   120 L06 Read and search conference journals
+ZCZC  W02   150 L10 Assignment week 02: Read OSC10 chapter 16&17
+ZCZC  W02    30 L10 Assignment week 02: Generate a GnupG Key Pair, import public key and export my public key
+ZCZC  WO2    60 L10 Assignment week 02: List top 3 rank for week 00 & 01
+ZCZC  W02    60 l10 Assignment week 02: List top 10 list for week 02
