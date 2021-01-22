@@ -2,21 +2,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC  W00   10  L03 Create new github repository (os202)
-ZCZC  W00   5   L04 Github os202 new page
-ZCZC  W00   120 L02 ZOOM class pertemuan 1
-ZCZC  W00   60  L05 GSGS for week 00 Top 10 List
-ZCZC  W01   120 L02 ZOOM class pertemuan 2
-ZCZC  W01   60  L21 Installing Debian
-ZCZC  W01   60  L05 GSGS for week 01 Top 10 List
-ZCZC  W01   15  L10 Assignment week 01: Try creating and import Debian guest
-ZCZC  W01   30  L10 Assignment week 01: Login to Debian guest and try few of CLI commands
-ZCZC  W01   15  L10 Assignment week 01: Tunnelling to badak.cs.ui.ac.id via kawung.cs.ui.ac.id and copy few folders to local computer
-ZCZC  W01   15  L10 Assignment week 01: Setting git for os202 repository in local computer
-ZCZC  W01   120 L10 Assignment week 01: Write My Top 10 List for week 00 and week 01 + update mylog.txt, commit and push it to github repo
-ZCZC  W01   120 L26 Watching Frozen II Movie
-ZCZC  W01   120 L06 Read and search conference journals
-ZCZC  W02   150 L10 Assignment week 02: Read OSC10 chapter 16&17
-ZCZC  W02    30 L10 Assignment week 02: Generate a GnupG Key Pair, import public key and export my public key
-ZCZC  WO2    60 L10 Assignment week 02: List top 3 rank for week 00 & 01
-ZCZC  W02    60 l10 Assignment week 02: List top 10 list for week 02
+ZCZC  W00   30  L02 First Zoom Meeting
+ZCZC  W00   10  L03 Reactivated OS202 Repo: clean all TXT file
